@@ -8,3 +8,14 @@ body {
     background-color: black;
     color: white;
 }
+
+.container {
+    display: flex;
+    width: 1000px;
+}
+
+.container img {
+    width: 500px;
+    object-fit: cover;
+    border-radius: 20px;
+}
